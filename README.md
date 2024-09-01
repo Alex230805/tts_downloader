@@ -1,2 +1,3 @@
 # tts_downloader
-Node app to download audio using the google tts api
+
+Program to downlaod a list of phrase or word in a file using google tts api.
